@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+# Portfolio
 
 Welcome to my **Portfolio**! This repository showcases my skills, projects, and achievements in the field of cybersecurity.
 

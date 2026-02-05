@@ -5,9 +5,10 @@ Welcome to my **Portfolio**! This repository showcases my skills, projects, and 
 ---
 
 ## 📄 About Me
-I am a passionate cybersecurity enthusiast with a focus on:
--  Ethical Hacking, Network Security, Malware Analysis ,pentesting.
-- Constantly learning and exploring to improve security.
+I am a passionate cybersecurity and Artificial Intelligence enthusiast with a focus on:
+-  Ethical Hacking, Network Security, Malware Analysis .
+-  LLMs, APIs, Data Handling .
+- Constantly learning and exploring to improve understanding and security.
 
 
 ---
@@ -16,5 +17,6 @@ I am a passionate cybersecurity enthusiast with a focus on:
 Here are the key skills and tools I specialize in:
 - **Programming Languages:** Python, Bash, Java,Java script
 - **Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Nessus ,Burpsuit.
-- **Operating Systems:** Kali Linux, Windows
+- **AI Tools:** Anti Gravity, Cursor, Copilot .
+- **Operating Systems:** Kali Linux, Windows .
 
